@@ -1,0 +1,20 @@
+{
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 0,
+  "type_vocab_size": 2,
+  "max_token_len": 512,
+  "max_token_relative": 16,
+  "max_sentence_len": 128,
+  "max_sentence_relative": 8,
+  "max_paragraph_len": 64,
+  "max_paragraph_relative": 4,
+  "layer_norm_eps": 1e-12,
+  "vocab_size": 30522,
+  "use_relative_embeddings": true
+}
